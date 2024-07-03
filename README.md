@@ -2,7 +2,7 @@
 Entrega de trabajos finales para la materia Sistemas Operacionales.
 
 # Videos
-- Grupo 1 [Aqui]()
+- Grupo 1 [Aqui](https://www.youtube.com/watch?v=d1FukvK2t6U&t=1s)
 - Grupo 2 [Aqui]()
 - Grupo 3 [Aqui]()
 - Grupo 4 [Aqui]()
